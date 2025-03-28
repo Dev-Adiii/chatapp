@@ -179,7 +179,7 @@ export default function ChatApp() {
 
   return (
     <div className="flex flex-col items-center min-h-screen p-4 bg-gray-100">
-      <h1 className="text-2xl font-bold mb-4  text-black">Prial's Personal Chat-room</h1>
+      <h1 className="text-2xl font-bold mb-4  text-black">Prial's Personal Chat-Room</h1>
 
       {/* 🔹 Username Input */}
       {!username && (
